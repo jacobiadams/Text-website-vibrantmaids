@@ -1,0 +1,52 @@
+body
+{
+
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0
+    overflow-x: hidden;
+    text-align: center
+
+}
+
+header
+{
+
+    background-color: lightblue;
+    padding: 15px;
+    box-shadow: 0 0 3p #000;
+
+}
+
+header li
+{
+
+    display: inline;
+    padding-left: 45px;
+
+    
+}
+
+
+
+
+
+
+
+
+
+.questions {
+  
+    color: green;
+  }
+  
+  [href] {
+    color: red;
+  }
+  
+  .h1{
+    
+    color: blue;
+  }
+
+  
