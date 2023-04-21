@@ -12,7 +12,7 @@ body {
     position: relative;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(239, 239, 239);
+    background-color: #ffffff;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -107,7 +107,7 @@ body {
 @media screen and (max-width: 500px) {
     .responsive{
         padding: 0px 5px;
-        background-color: #ec5b8c;
+        background-color: #ffffff;
     }
 
 }
