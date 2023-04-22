@@ -111,3 +111,29 @@ body {
     }
 
 }
+
+
+.button1 {
+    position: left;
+    padding: 10px 22px;
+    border-radius: 16px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    background-color: #e82a93;
+    
+
+}
+
+
+.button2 {
+    position: right;
+    padding: 10px 22px;
+    border-radius: 16px;
+    border: 3px #2a8ce8;
+    color: #e82a93;
+    cursor: pointer;
+    background-color: #df1e1e;
+    
+
+}
