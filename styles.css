@@ -116,8 +116,8 @@ body {
 
 .button1 {
     float: left;
-    padding: 10px 22px;
-    border-radius: 12px;
+    padding: 10px 58px;
+    border-radius: 15px;
     border: 2px solid #F13278 ;
     color: #fff;
     cursor: pointer;
@@ -127,8 +127,8 @@ body {
 
 .buttonoutline2 {
     float: right;
-    padding: 10px 22px;
-    border-radius: 12px;
+    padding: 10px 50px;
+    border-radius: 15px;
     border: 2px solid #F13278;
     color: #F13278;
     cursor: pointer;
@@ -148,6 +148,7 @@ body {
 
 .parent {
     position: relative;
+    
 }
 
 .child {
@@ -159,6 +160,7 @@ body {
     color: #F13278;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192)
+    
 }
 
 
@@ -166,6 +168,7 @@ body {
     font-size: 12px;
     color: #F13278;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192)
+    width: 20em;
     
 
 }
