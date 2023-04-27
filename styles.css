@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 1px;
 }
 
 body {
@@ -11,7 +12,6 @@ body {
     display: flex;
     position: relative;
     justify-content: space-between;
-    align-items: center;
     background-color: #ffffff;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-links li:hover {
-    background-color: #ec5b8c;
+    background-color: #F13278;
 }
 
 .toggle-button {
@@ -68,7 +68,6 @@ body {
 @media (max-width: 800px) {
     .navbar {
         flex-direction: column;
-        align-items: flex-start;
     }
 
     .toggle-button {
@@ -99,41 +98,76 @@ body {
 }
 
 
-    .homedesignone {
-        width: 100%;
-        height: auto;  
+.homedesignone {
+    width: 100%;
+    height: auto;
+     
 }
 
 @media screen and (max-width: 500px) {
-    .responsive{
-        padding: 0px 5px;
-        background-color: #ffffff;
-    }
+.responsive {
+    padding: 0px 5px;
+    background-color: #ffffff;
+ }
 
 }
 
 
 .button1 {
-    position: left;
+    float: left;
     padding: 10px 22px;
     border-radius: 16px;
-    border: none;
+    border: 2px solid #F13278 ;
     color: #fff;
     cursor: pointer;
-    background-color: #e82a93;
-    
-
+    background-color: #F13278;
 }
 
 
-.button2 {
-    position: right;
+.buttonoutline2 {
+    float: right;
     padding: 10px 22px;
     border-radius: 16px;
-    border: 3px #2a8ce8;
-    color: #e82a93;
+    border: 2px solid #F13278;
+    color: #F13278;
     cursor: pointer;
-    background-color: #df1e1e;
-    
+    background-color: #ffffff;
+}
 
+
+.logoimg12 {
+    padding: 4px;
+}
+
+
+
+  .top header {
+    align-items: center;
+    color:#F13278;
+
+
+
+
+  }
+
+
+
+
+.top header{
+    color:#F13278;
+}
+
+
+.parent {
+    position: relative;
+}
+
+.child {
+    position: absolute;
+    font-size: larger;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #F13278;
+    font-family: Arial, Helvetica, sans-serif;
 }
