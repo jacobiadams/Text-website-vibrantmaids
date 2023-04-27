@@ -115,8 +115,8 @@ body {
 
 .button1 {
     float: left;
-    padding: 10px 22px;
-    border-radius: 16px;
+    padding: 5px 10px;
+    border-radius: 12px;
     border: 2px solid #F13278 ;
     color: #fff;
     cursor: pointer;
@@ -126,8 +126,8 @@ body {
 
 .buttonoutline2 {
     float: right;
-    padding: 10px 22px;
-    border-radius: 16px;
+    padding: 5px 10px;
+    border-radius: 12px;
     border: 2px solid #F13278;
     color: #F13278;
     cursor: pointer;
@@ -166,5 +166,13 @@ body {
     color: #F13278;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192)
     
+
+}
+
+
+.two-head {
+    color: #F13278;
+    text-align: center;
+    padding: 12%;
 
 }
