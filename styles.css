@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    margin: 1px;
+    margin: 2px;
 }
 
 body {
@@ -136,26 +136,13 @@ body {
 
 
 .logoimg12 {
-    padding: 4px;
+    padding: 1px;
 }
 
 
 
-  .top header {
-    align-items: center;
-    color:#F13278;
 
 
-
-
-  }
-
-
-
-
-.top header{
-    color:#F13278;
-}
 
 
 .parent {
@@ -170,4 +157,14 @@ body {
     transform: translate(-50%, -50%);
     color: #F13278;
     font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192)
+}
+
+
+.second-head {
+    font-size: 12px;
+    color: #F13278;
+    text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192)
+    
+
 }
