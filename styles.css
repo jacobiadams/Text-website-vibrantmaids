@@ -67,35 +67,35 @@ body {
 }
 
 @media (max-width: 800px) {
-    .navbar {
-        flex-direction: column;
-    }
+.navbar {
+    flex-direction: column;
+}
 
-    .toggle-button {
-        display: flex;
-    }
+.toggle-button {
+    display: flex;
+}
 
-    .navbar-links {
-        display: none;
-        width: 100%;
-    }
+.navbar-links {
+    display: none;
+    width: 100%;
+}
 
-    .navbar-links ul {
-        width: 100%;
-        flex-direction: column;
-    }
+.navbar-links ul {
+    width: 100%;
+    flex-direction: column;
+}
 
-    .navbar-links ul li {
-        text-align: center;
-    }
+.navbar-links ul li {
+    text-align: center;
+}
 
-    .navbar-links ul li a {
-        padding: .5rem 1rem;
-    }
+.navbar-links ul li a {
+    padding: .5rem 1rem;
+}
 
-    .navbar-links.active {
-        display: flex;
-    }
+.navbar-links.active {
+    display: flex;
+ }
 }
 
 
@@ -116,7 +116,7 @@ body {
 
 .button1 {
     float: left;
-    padding: 10px 58px;
+    padding: 8px 63px;
     border-radius: 15px;
     border: 2px solid #F13278 ;
     color: #fff;
@@ -127,7 +127,7 @@ body {
 
 .buttonoutline2 {
     float: right;
-    padding: 10px 50px;
+    padding: 8px 53px;
     border-radius: 15px;
     border: 2px solid #F13278;
     color: #F13278;
@@ -142,13 +142,8 @@ body {
 
 
 
-
-
-
-
 .parent {
     position: relative;
-    
 }
 
 .child {
@@ -161,7 +156,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192);
     width: max-content;
-    
 }
 
 
@@ -170,26 +164,52 @@ body {
     color: #F13278;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192);
     text-align: center;
-    padding: 3%;
-
-    
-
+    padding: 2%;
 }
 
 
 .two-head {
     color: #F13278;
     text-align: center;
-    padding: 12%;
+    padding: 9%;
     text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192);
     font-family: Arial, Helvetica, sans-serif;
-    
+}
+
+
+.top-header {
+    text-align: center;
+}
+
+
+
+
+.p-first {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.secondaction {
+    width: 100%;
+    height: 10rem;
+    object-fit: cover;
 
 }
 
 
-.top-header{
-    text-align: center;
+.two-head {
+font-size: 1.5rem;
+line-height: 2rem;
+cursor: pointer;
 
+}
+
+
+.arrow {
+      
 
 }
