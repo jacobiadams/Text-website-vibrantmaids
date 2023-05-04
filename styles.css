@@ -284,3 +284,28 @@ p {
     
 
 }
+
+
+.link {
+	font-size: .875rem;
+	line-height: 1.25rem;
+	margin-left: .25rem;
+	
+
+	content: "\279c";
+	font-size: 1.25rem;
+    text-align: center;
+    color: #F13278;
+    text-shadow: 2px 2px 5px rgba(51, 1, 20, 0.192);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    text-decoration: none;
+}
+
+.link::after {
+	
+	margin-left: .55rem;
+	content: "\279c";
+	color: #F13278;
+    
+}
