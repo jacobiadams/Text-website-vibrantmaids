@@ -15,7 +15,7 @@ body {
 .btn {
     display: inline-block;
     padding: 8px 0;
-    min-width: 190px;
+    min-width: 130px;
     text-align: center;
     border-radius: 15px;
     border: 2px solid #F13278 ;
