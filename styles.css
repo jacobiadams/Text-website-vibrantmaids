@@ -210,30 +210,47 @@ body {
 
 
 .p2 {
-    text-align: left;
+    text-align: center;
     padding-left: 1rem;
     padding-right: 1rem;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
+
+
+.explain {
+
+    
+
+}
+
+
+.content {
+
+
+
+
 
 }
 
 
 
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Green */
+  .success {
+    border-color: #04AA6D;
+    color: green;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 
-    
 
-    
-
-
-
-.explain{
-    
-
-
-}
-
-
-.content{
-   
-
-}
