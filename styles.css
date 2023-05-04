@@ -75,7 +75,7 @@ body {
 .toggle-button {
     position: absolute;
     top: .75rem;
-    right: 1rem;
+    right: 0.2rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;
