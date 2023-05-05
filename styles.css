@@ -19,8 +19,8 @@ a {
     padding: 0 2rem;
     height: 70px;
     align-items: center;
-    background: rgba(192, 19, 120, 0.966);
-    color: #d55c16;
+    background: #F13278;
+    color: #F13278;
     position:fixed;
     top:0;
     width: 100%;
@@ -147,7 +147,7 @@ a {
         position: fixed;
         top: 70px;
         width: 100vw;
-        background: rgba(192, 19, 120, 0.966);
+        background: #F13278;
         padding: 1rem 0;
         height: 100vh;
         z-index: 99;
