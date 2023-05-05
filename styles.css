@@ -392,6 +392,7 @@ p {
 .understand {
     flex-flow: column;
     display: flex;
+    padding: inherit;
     
 
 }
@@ -430,4 +431,11 @@ p {
     content: "\279c";
     color: #F13278;
     
+}
+
+
+.toptest {
+    padding-bottom: 15%;
+
+
 }
