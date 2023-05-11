@@ -244,6 +244,26 @@ a {
     background-color: #ffffff;
 }
 
+
+
+
+.btn-outline-12 {
+    border-radius: 15px;
+    border: 3px solid #F13278;
+    color: #F13278;
+    background-color: #ffffff;
+    padding: 8px 8px;
+
+    
+   
+}
+
+
+
+
+
+
+
 p {
     text-align: left;
     margin: 0 auto 20px auto;
